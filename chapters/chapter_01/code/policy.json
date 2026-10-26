@@ -1,0 +1,4 @@
+{
+  "min_mae_improvement": 0.1,
+  "segments": ["North", "South"]
+}

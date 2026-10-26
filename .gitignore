@@ -1,0 +1,22 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated chapter results
+service_runs/
+review_runs/
+learning_views/
+report*.json
+
+# Local editor, operating system and environment files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.env
+.env.*
