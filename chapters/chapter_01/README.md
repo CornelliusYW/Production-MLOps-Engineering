@@ -4,6 +4,8 @@ This chapter connects model development to a service people can use in their dai
 
 We use synthetic data for eight store and product combinations across four stores. The example lets us follow a normal run, see how a late feed changes the forecasting method, and load the results again without creating duplicate planning tasks.
 
+The [Chapter 1 files](https://github.com/CornelliusYW/Production-MLOps-Engineering/tree/main/chapters/chapter_01) are in the shared book repository. Run this exercise from its `chapters/chapter_01/code` folder.
+
 ## Start the example
 
 Use Python 3.12 or later. The desktop application also needs Tkinter. No additional Python packages are required.

@@ -10,6 +10,15 @@ Companion code for the book by Cornellius Yudha Wijaya. This repository keeps th
 
 Further chapter folders will be added as their examples are prepared.
 
+## Get the code
+
+```text
+git clone https://github.com/CornelliusYW/Production-MLOps-Engineering.git
+cd Production-MLOps-Engineering
+```
+
+You can also download the repository as a ZIP from its **Code** menu.
+
 ## Start with Chapter 1
 
 Download a copy of the repository or clone it, then open a terminal in the repository root. Use Python 3.12 or later, with Tkinter for the desktop application. Chapter 1 uses only the Python standard library.

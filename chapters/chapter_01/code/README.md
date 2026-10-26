@@ -4,6 +4,8 @@ Let's run a small forecasting service and follow its results into a planning app
 
 All data is synthetic. The example covers eight store and product combinations across four stores. Its primary method is the mean of three days of sales, which keeps the calculation simple while we learn how to operate the workflow.
 
+These files belong to [Production MLOps Engineering](https://github.com/CornelliusYW/Production-MLOps-Engineering), the shared repository for all chapters. This exercise is in [chapters/chapter_01/code](https://github.com/CornelliusYW/Production-MLOps-Engineering/tree/main/chapters/chapter_01/code).
+
 ## Requirements
 
 - Python 3.12 or later.
